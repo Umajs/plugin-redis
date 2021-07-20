@@ -3,7 +3,7 @@
 
 
 ## Install
-`npm install @umajs/plugin-redis  --registry=http://ires.58corp.com/repository/58npm/`
+`npm install @umajs/plugin-redis`
 
 
 
